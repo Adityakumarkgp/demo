@@ -1,4 +1,4 @@
 # demo
 This is my first repository.
 <br>
-Aditya kumar
+Aditya kumar, a student of iit kgp
